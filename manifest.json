@@ -1,0 +1,13 @@
+{
+  "name": "Marketing Pro",
+  "short_name": "Marketing Pro",
+  "description": "Gestión de marketing — Kanban, Calendario, Presupuesto y Usuarios",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFEFF7",
+  "theme_color": "#5D0D0D",
+  "icons": [
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
